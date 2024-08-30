@@ -69,6 +69,10 @@ Additionally, the Computational Electrophysics Reactor serves as a powerful plat
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [New Science Subjects](https://github.com/sourceduty/New_Science_Subjects)
+<br>
+[Computational Reactor](https://github.com/sourceduty/Computational_Reactor)
+<br>
+[Quantum Reactor](https://github.com/sourceduty/Quantum_Reactor)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
